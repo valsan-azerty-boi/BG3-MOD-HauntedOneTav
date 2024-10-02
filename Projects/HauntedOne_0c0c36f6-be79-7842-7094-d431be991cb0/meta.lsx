@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="0c0c36f6-be79-7842-7094-d431be991cb0"/>
+            <attribute id="Name" type="LSString" value="HauntedOne"/>
+            <attribute id="UUID" type="LSString" value="fac68a0b-392f-9c9e-099e-16fecadffb9e"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

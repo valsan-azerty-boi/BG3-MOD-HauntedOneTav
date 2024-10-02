@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="Backgrounds">
+        <node id="root">
+            <children>
+                <node id="Background">
+                    <attribute id="Description" type="TranslatedString" handle="h48480533g64f2g4068gbd04gde374d740bdb" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h360a40ffg9e00g4f3dg985ag06e403201ec0" version="1"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="Passives" type="LSString" value="Background_HauntedOne"/>
+                    <attribute id="UUID" type="guid" value="20d865ea-03bd-47bf-97d3-777e1b36b073"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="ce00b3b6-238e-4524-851b-3d1f2d2b1189"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="64d07522-f5ae-494e-b92d-77ae9c71feb1">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h48480533g64f2g4068gbd04gde374d740bdb" version="3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h360a40ffg9e00g4f3dg985ag06e403201ec0" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_HauntedOne" />
+        <field name="UUID" type="IdTableFieldDefinition" value="20d865ea-03bd-47bf-97d3-777e1b36b073" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="ce00b3b6-238e-4524-851b-3d1f2d2b1189" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
