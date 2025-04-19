@@ -18,7 +18,7 @@ Mods/HauntedOne_0c0c36f6-be79-7842-7094-d431be991cb0/Story/Dialogs/Recovered/*
 
 # Asset Folders      #
 ######################
-Public/HauntedOne_0c0c36f6-be79-7842-7094-d431be991cb0/Assets/*
+#Public/HauntedOne_0c0c36f6-be79-7842-7094-d431be991cb0/Assets/*
 #Public/HauntedOne_0c0c36f6-be79-7842-7094-d431be991cb0/GUI/*
 
 # Editor files       #
@@ -37,16 +37,16 @@ story.debugInfo
 
 # Assets             #
 ######################
-*.gr2
+#*.gr2
 *.dae
 *.swf
 *.bullet
-*.dds
-*.tga
-*.png
-*.ttf
+#*.dds
+#*.tga
+#*.png
+#*.ttf
 *.lsb
-*.lsf
+#*.lsf
 *.lsfx
 *.lsefx
 #*.lsx
